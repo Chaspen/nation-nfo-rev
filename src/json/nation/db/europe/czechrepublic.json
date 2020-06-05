@@ -1,0 +1,30 @@
+{
+    "name": "Czech Republic",
+    "capital": "Prague",
+    "continent": "Europe",
+    "currency": "Czech koruna",
+    "religion": "Non-religious",
+    "area": {
+        "metric": 78866,
+        "imperial": 30450
+    },
+    "population": 10693939,
+    "hdi": 0.891,
+    "drivingSide": "Right",
+    "tld": ".cz",
+    "legislature": "Parliament",
+    "language" : "Czech",
+    "langBasic": {
+        "hello": "Ahoj",
+        "howareyou": "Jak se máte ?",
+        "whatisname": "Jak se jmenuješ?",
+        "mynameis": "Jmenuji se...",
+        "goodmorning": "Dobré ráno",
+        "goodafternoon": "Dobré odpoledne",
+        "goodevening": "Dobrý večer",
+        "goodnight": "Dobrou noc",
+        "bye": "Sbohem",
+        "yes": "Ano",
+        "no": "Ne"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Kiribati",
+    "capital": "Tarawa",
+    "continent": "Oceania",
+    "currency": "Kiribati dollar",
+    "religion": "Christianity",
+    "area": {
+        "metric": 811,
+        "imperial": 313
+    },
+    "population": 122330,
+    "hdi": 0.623,
+    "drivingSide": "Left",
+    "tld": ".ki",
+    "legislature": "House of Assembly",
+    "language" : "Gilbertese",
+    "langBasic": {
+        "hello": "Mauri",
+        "howareyou": "Ko uara?",
+        "whatisname": "Antai aram?",
+        "mynameis": "Arau ngai ...",
+        "goodmorning": "Ko kaman uuti?",
+        "goodafternoon": "",
+        "goodevening": "",
+        "goodnight": "Matiu raoi",
+        "bye": "Ti a boo",
+        "yes": "E eng",
+        "no": "Tiaki"
+    }
+}

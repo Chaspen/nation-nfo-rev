@@ -1,0 +1,41 @@
+{
+    "name": "Kosovo",
+    "capital": "Pristina",
+    "continent": "Europe",
+    "currency": "Euro",
+    "religion": "Sunni islam",
+    "area": {
+        "metric": 10887,
+        "imperial": 4203
+    },
+    "population": 1810463,
+    "hdi": 0.742,
+    "drivingSide": "Right",
+    "tld": "None",
+    "legislature": "Assembly of the Republic of Kosovo",
+    "language" : "",
+    "langBasic": {
+        "hello": "Përshëndetje",
+        "hello1": "Здраво",
+        "howareyou": "Si jeni?",
+        "howareyou1": "Како си ?",
+        "whatisname": "Si te quajnë?",
+        "whatisname1": "Како се зовеш?",
+        "mynameis": "Mua më quajnë ...",
+        "mynameis1": "Моје име је...",
+        "goodmorning": "Mirëmëngjes",
+        "goodmorning1": "Добро јутро",
+        "goodafternoon": "Mirëdita",
+        "goodafternoon1": "Добар дан",
+        "goodevening": "Mirëmbrëma",
+        "goodevening1": "Добро вече",
+        "goodnight": "Natën e mirë",
+        "goodnight1": "Лаку ноћ",
+        "bye": "Mirupafshim",
+        "bye1": "Здраво",
+        "yes": "Po",
+        "yes1": "да",
+        "no": "Jo",
+        "no1": "Не"
+    }
+}

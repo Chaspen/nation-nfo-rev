@@ -1,0 +1,30 @@
+{
+    "name": "Suriname",
+    "capital": "Paramaribo",
+    "continent": "South America",
+    "currency": "Surinamese dollar",
+    "religion": "Christianity",
+    "area": {
+        "metric": 163821,
+        "imperial": 63252
+    },
+    "population": 575990,
+    "hdi": 0.724,
+    "drivingSide": "Left",
+    "tld": ".sr",
+    "legislature": "National Assembly",
+    "language" : "Dutch",
+    "langBasic": {
+        "hello": "Hallo",
+        "howareyou": "Hoe gaat het met je?",
+        "whatisname": "Wat is jouw naam?",
+        "mynameis": "Mijn naam is...",
+        "goodmorning": "Goedemorgen",
+        "goodafternoon": "Goedenmiddag",
+        "goodevening": "Goedenavond",
+        "goodnight": "Goede nacht",
+        "bye": "Doei",
+        "yes": "Ja",
+        "no": "Nee"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Spain",
+    "capital": "Madrid",
+    "continent": "Europe",
+    "currency": "Euro",
+    "religion": "Roman Catholicism",
+    "area": {
+        "metric": 505990,
+        "imperial": 195360
+    },
+    "population": 47100396,
+    "hdi": 0.893,
+    "drivingSide": "Right",
+    "tld": ".es",
+    "legislature": "Cortes Generales",
+    "language" : "Spanish",
+    "langBasic": {
+        "hello": "Hola",
+        "howareyou": "Cómo estás",
+        "whatisname": "Cuál es su nombre",
+        "mynameis": "Me llamo ...",
+        "goodmorning": "Buenos días",
+        "goodafternoon": "Buenas tardes",
+        "goodevening": "Buena noches",
+        "goodnight": "Buenas noches",
+        "bye": "Adiós",
+        "yes": "Si",
+        "no": "No"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Cyprus",
+    "capital": "Nicosia",
+    "continent": "Europe",
+    "currency": "Euro",
+    "religion": "Greek Orthodox Christian",
+    "area": {
+        "metric": 9251,
+        "imperial": 3572
+    },
+    "population": 1189265,
+    "hdi": 0.873,
+    "drivingSide": "Left",
+    "tld": ".cy",
+    "legislature": "Legislature House of Representatives",
+    "language" : "Greek",
+    "langBasic": {
+        "hello": "Χαίρετε",
+        "howareyou": "Πώς είσαι ?",
+        "whatisname": "Πως σε λένε?",
+        "mynameis": "Το όνομά μου είναι...",
+        "goodmorning": "Καλημέρα",
+        "goodafternoon": "Καλό απόγευμα",
+        "goodevening": "Καλό απόγευμα",
+        "goodnight": "Καληνυχτα",
+        "bye": "Αντίο",
+        "yes": "Ναί",
+        "no": "Οχι"
+    }
+}

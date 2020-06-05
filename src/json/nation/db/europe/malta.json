@@ -1,0 +1,30 @@
+{
+    "name": "Malta",
+    "capital": "Valletta",
+    "continent": "Europe",
+    "currency": "Euro",
+    "religion": "Catholicism",
+    "area": {
+        "metric": 316,
+        "imperial": 122
+    },
+    "population": 493559,
+    "hdi": 0.885,
+    "drivingSide": "Left",
+    "tld": ".mt",
+    "legislature": "House of Representatives",
+    "language" : "Maltese",
+    "langBasic": {
+        "hello": "Bongu",
+        "howareyou": "Kif int?",
+        "whatisname": "X'inhu ismek?",
+        "mynameis": "Jiena jisimni ...",
+        "goodmorning": "Bongu",
+        "goodafternoon": "Il-waranofsinhar it-tajjeb",
+        "goodevening": "Serata tajba",
+        "goodnight": "Il-lejl it-tajjeb",
+        "bye": "Sewwa",
+        "yes": "Iva",
+        "no": "Le"
+    }
+}

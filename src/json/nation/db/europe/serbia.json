@@ -1,0 +1,30 @@
+{
+    "name": "Serbia",
+    "capital": "Belgrade",
+    "continent": "Europe",
+    "currency": "Serbian dinar",
+    "religion": "Eastern Orthodox Christianity",
+    "area": {
+        "metric": 88361,
+        "imperial": 34116
+    },
+    "population": 6963764,
+    "hdi": 0.799,
+    "drivingSide": "Right",
+    "tld": ".rs",
+    "legislature": "Narodna skupština",
+    "language" : "Serbia",
+    "langBasic": {
+        "hello": "Здраво",
+        "howareyou": "Здраво",
+        "whatisname": "Како се зовеш?",
+        "mynameis": "Моје име је",
+        "goodmorning": "Добро јутро",
+        "goodafternoon": "Добар дан",
+        "goodevening": "Добро вече",
+        "goodnight": "Лаку ноћ",
+        "bye": "збогом",
+        "yes": "да",
+        "no": "Не"
+    }
+}

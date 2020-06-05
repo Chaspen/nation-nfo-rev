@@ -1,0 +1,30 @@
+{
+    "name": "Slovenia",
+    "capital": "Ljubljana",
+    "continent": "Europe",
+    "currency": "Euro",
+    "religion": "Catholic",
+    "area": {
+        "metric": 20271,
+        "imperial": 7827
+    },
+    "population": 2095861,
+    "hdi": 0.902,
+    "drivingSide": "Right",
+    "tld": ".si",
+    "legislature": "Parliament",
+    "language" : "Slovene",
+    "langBasic": {
+        "hello": "Zdravo",
+        "howareyou": "Kako si?",
+        "whatisname": "Kako ti ke ime?",
+        "mynameis": "Ime mi je ...",
+        "goodmorning": "Dobro jutro",
+        "goodafternoon": "Dober večer",
+        "goodevening": "Dober večer",
+        "goodnight": "Lahko noč",
+        "bye": "Adijo",
+        "yes": "Da",
+        "no": "Ne"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Estonia",
+    "capital": "Tallinn",
+    "continent": "Europe",
+    "currency": "Euro",
+    "religion": "Christian",
+    "area": {
+        "metric": 45227,
+        "imperial": 17462
+    },
+    "population": 1328976,
+    "hdi": 0.882,
+    "drivingSide": "Right",
+    "tld": ".ee",
+    "legislature": "Riigikogu",
+    "language" : "Estonian",
+    "langBasic": {
+        "hello": "Tere",
+        "howareyou": "Kuidas sul läheb?",
+        "whatisname": "Mis su nimi on?",
+        "mynameis": "Minu nimi on...",
+        "goodmorning": "Tere hommikust",
+        "goodafternoon": "Tere päevast",
+        "goodevening": "Tere õhtust",
+        "goodnight": "Head ööd",
+        "bye": "Nägemist",
+        "yes": "Jah",
+        "no": "Ei"
+    }
+}

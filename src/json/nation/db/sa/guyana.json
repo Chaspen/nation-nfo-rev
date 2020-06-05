@@ -1,0 +1,30 @@
+{
+    "name": "Guyana",
+    "capital": "Georgetown",
+    "continent": "South America",
+    "currency": "Guyanese dollar ",
+    "religion": "Christian",
+    "area": {
+        "metric": 214970,
+        "imperial": 83000
+    },
+    "population": 786391,
+    "hdi": 0.670,
+    "drivingSide": "Left",
+    "tld": ".gy",
+    "legislature": "National Assembly",
+    "language" : "English",
+    "langBasic": {
+        "hello": "Hello",
+        "howareyou": "How are you?",
+        "whatisname": "What is your name?",
+        "mynameis": "My name is ...",
+        "goodmorning": "Good morning",
+        "goodafternoon": "Good afternoon",
+        "goodevening": "Good evening",
+        "goodnight": "Good night",
+        "bye": "Bye",
+        "yes": "Yes",
+        "no": "No"
+    }
+}

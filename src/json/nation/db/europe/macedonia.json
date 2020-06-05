@@ -1,0 +1,30 @@
+{
+    "name": "North Macedonia",
+    "capital": "Skopje",
+    "continent": "Europe",
+    "currency": "Macedonian denar",
+    "religion": "Eastern Orthodox Christianity",
+    "area": {
+        "metric": 25713,
+        "imperial": 9928
+    },
+    "population": 2077132,
+    "hdi": 0.759,
+    "drivingSide": "Right",
+    "tld": ".mk",
+    "legislature": "Assembly",
+    "language" : "Macedonian",
+    "langBasic": {
+        "hello": "Здраво",
+        "howareyou": "Како си?",
+        "whatisname": "Како се викаш?",
+        "mynameis": "Моето име е ...",
+        "goodmorning": "Добро утро",
+        "goodafternoon": "Добар ден",
+        "goodevening": "Добро попладне",
+        "goodnight": "Добра ноќ",
+        "bye": "Чао",
+        "yes": "Да",
+        "no": "Не"
+    }
+}

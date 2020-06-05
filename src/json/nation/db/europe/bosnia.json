@@ -1,0 +1,30 @@
+{
+    "name": "Bosnia and Herzegovina",
+    "capital": "Sarajevo",
+    "continent": "Europe",
+    "currency": "Convertible mark",
+    "religion": "Islam",
+    "area": {
+        "metric": 51129,
+        "imperial": 19741
+    },
+    "population": 3301000,
+    "hdi": 0.769,
+    "drivingSide": "Right",
+    "tld": ".ba",
+    "legislature": "Parliamentary Assembly",
+    "language" : "Bosnian",
+    "langBasic": {
+        "hello": "Zdravo",
+        "howareyou": "Kako si?",
+        "whatisname": "Kako se zoves?",
+        "mynameis": "Moje ime je...",
+        "goodmorning": "Dobro jutro",
+        "goodafternoon": "Dobar dan",
+        "goodevening": "Dobro veče",
+        "goodnight": "Laku noc",
+        "bye": "Ćao",
+        "yes": "Da",
+        "no": "Ne"
+    }
+}

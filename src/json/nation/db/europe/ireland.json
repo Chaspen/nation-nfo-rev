@@ -1,0 +1,41 @@
+{
+    "name": "Ireland",
+    "capital": "Dublin",
+    "continent": "Europe",
+    "currency": "Euro",
+    "religion": "Roman Catholic",
+    "area": {
+        "metric": 70273,
+        "imperial": 27133
+    },
+    "population": 4921500,
+    "hdi": 0.942,
+    "drivingSide": "Left",
+    "tld": ".ie",
+    "legislature": "Oireachtas",
+    "language" : "English, Irish",
+    "langBasic": {
+        "hello": "Hello",
+        "hello1": "Dia dhuit",
+        "howareyou": "How are you?",
+        "howareyou1": "Conas tá tú?",
+        "whatisname": "What is your name?",
+        "whatisname1": "Cad is ainm duit?",
+        "mynameis": "My name is...",
+        "mynameis1": "Is ainm dom...",
+        "goodmorning": "Good morning",
+        "goodmorning1": "Maidin mhaith",
+        "goodafternoon": "Good afternoon",
+        "goodafternoon1": "Tráthnóna maith",
+        "goodevening": "Good evening",
+        "goodevening1": "Tráthnóna maith",
+        "goodnight": "Good night",
+        "goodnight1": "Oíche mhaith",
+        "bye": "Bye",
+        "bye1": "Slán",
+        "yes": "Yes",
+        "yes1": "Sea",
+        "no": "No",
+        "no1": "Níl"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Albania",
+    "capital": "Tirana",
+    "continent": "Europe",
+    "currency": "Albanian lek",
+    "religion": "Sunni islam",
+    "area": {
+        "metric": 28748,
+        "imperial": 11100
+    },
+    "population": 2845955,
+    "hdi": 0.791,
+    "drivingSide": "Right",
+    "tld": ".al",
+    "legislature": "Kuvendi",
+    "language" : "Albanian",
+    "langBasic": {
+        "hello": "Përshëndetje",
+        "howareyou": "Si jeni?",
+        "whatisname": "Si te quajnë?",
+        "mynameis": "Mua më quajnë ...",
+        "goodmorning": "Mirëmëngjes",
+        "goodafternoon": "Mirëdita",
+        "goodevening": "Mirëmbrëma",
+        "goodnight": "Natën e mirë",
+        "bye": "Mirupafshim",
+        "yes": "Po",
+        "no": "Jo"
+    }
+}

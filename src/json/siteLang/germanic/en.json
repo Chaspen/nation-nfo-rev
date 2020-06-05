@@ -1,0 +1,44 @@
+{
+    "category":{
+        "1": "English speaking nations",
+        "2": "Dutch speaking nations",
+        "3": "French speaking nations",
+        "4": "Spanish speaking nations",
+        "5": "Arabic speaking nations",
+        "6": "Portuguese speaking nations",
+        "7": "Romance language speaking nations",
+        "8": "Slavic language speaking nations",
+        "9": "Germanic language speaking nations",
+        "10": "Indo-European language speaking nations",
+        "11": "Semetic language speaking nations",
+        "12": "Turkic language speaking nations",
+        "13": "Uralic language speaking nations",
+        "14": "Former soviet nations",
+        "15": "NATO member nations"
+    },
+
+    "lang":{
+        "1": "English",
+        "2": "German",
+        "3": "Dutch",
+        "4": "Swedish",
+        "5": "Icelandic",
+        "6": "Spanish",
+        "7": "Portuguese",
+        "8": "Italian",
+        "9": "French",
+        "10": "Romanian",
+        "11": "Polish",
+        "12": "Russian",
+        "13": "Ukrainian",
+        "14": "Japanese",
+        "15": "Mandarin Chinese",
+        "16": "Korean",
+        "17": "Finnish"
+    },
+
+    "info":{
+        "name": "",
+        "region": ""
+    }
+}

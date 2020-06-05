@@ -1,0 +1,30 @@
+{
+    "name": "Swedish",
+    "capital": "Stockholm",
+    "continent": "Europe",
+    "currency": "Swedish krona",
+    "religion": "Evangelical Lutharianism",
+    "area": {
+        "metric": 450295,
+        "imperial": 173860
+    },
+    "population": 10343403,
+    "hdi": 0.937,
+    "drivingSide": "Right",
+    "tld": ".se",
+    "legislature": "Riksdag",
+    "language" : "Swedish",
+    "langBasic": {
+        "hello": "Hej",
+        "howareyou": "Hur mår du",
+        "whatisname": "Vad heter du?",
+        "mynameis": "Mitt namn är ...",
+        "goodmorning": "God morgon",
+        "goodafternoon": "God eftermiddag",
+        "goodevening": "God kväll",
+        "goodnight": "Godnatt",
+        "bye": "Hejdå",
+        "yes": "Ja",
+        "no": "Nej"
+    }
+}

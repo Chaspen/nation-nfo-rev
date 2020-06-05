@@ -1,0 +1,30 @@
+{
+    "name": "Bulgaria",
+    "capital": "Sofia",
+    "continent": "Europe",
+    "currency": "Convertible mark",
+    "religion": "Eastern Orthodox Christianity",
+    "area": {
+        "metric": 110993.6,
+        "imperial": 42854.9
+    },
+    "population": 6951482,
+    "hdi": 0.816,
+    "drivingSide": "Right",
+    "tld": ".ba",
+    "legislature": "Parliamentary Assembly",
+    "language" : "Bulgarian",
+    "langBasic": {
+        "hello": "Здравейте",
+        "howareyou": "Как сте ?",
+        "whatisname": "Как се казваш?",
+        "mynameis": "Моето име е...",
+        "goodmorning": "Добро утро",
+        "goodafternoon": "Добър ден",
+        "goodevening": "Добър вечер",
+        "goodnight": "Лека нощ",
+        "bye": "Чао",
+        "yes": "да",
+        "no": "Не"
+    }
+}

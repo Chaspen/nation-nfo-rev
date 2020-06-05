@@ -1,0 +1,30 @@
+{
+    "name": "Finnish",
+    "capital": "Helsinki",
+    "continent": "Europe",
+    "currency": "Euro",
+    "religion": "Evangelical Lutheran Christianity",
+    "area": {
+        "metric": 338424,
+        "imperial": 130666
+    },
+    "population": 5528737,
+    "hdi": 0.925,
+    "drivingSide": "Right",
+    "tld": ".fi",
+    "legislature": "Eduskunta/Riksdagen",
+    "language" : "Finnish",
+    "langBasic": {
+        "hello": "Hei",
+        "howareyou": "Mitä kuuluu ?",
+        "whatisname": "Mikä sinun nimesi on?",
+        "mynameis": "Nimeni on...",
+        "goodmorning": "Hyvää huomenta",
+        "goodafternoon": "Hyvää iltapäivää",
+        "goodevening": "Hyvää iltaa",
+        "goodnight": "Hyvää yötä",
+        "bye": "Hei hei",
+        "yes": "Joo",
+        "no": "Ei"
+    }
+}

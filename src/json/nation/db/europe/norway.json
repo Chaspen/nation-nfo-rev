@@ -1,0 +1,30 @@
+{
+    "name": "Norway",
+    "capital": "Oslo",
+    "continent": "Europe",
+    "currency": "Norwegian krone",
+    "religion": "Lutheran Christianity",
+    "area": {
+        "metric": 	385207,
+        "imperial": 148729
+    },
+    "population": 5367580,
+    "hdi": 0.954,
+    "drivingSide": "Right",
+    "tld": ".no",
+    "legislature": "Stortinget",
+    "language" : "Norwegian",
+    "langBasic": {
+        "hello": "Hallo",
+        "howareyou": "Hvordan har du det?",
+        "whatisname": "Hva heter du?",
+        "mynameis": "Mitt navn er ...",
+        "goodmorning": "God morgen",
+        "goodafternoon": "God ettermiddag",
+        "goodevening": "God kveld",
+        "goodnight": "God natt",
+        "bye": "Ha det",
+        "yes": "Ja",
+        "no": "Nei"
+    }
+}

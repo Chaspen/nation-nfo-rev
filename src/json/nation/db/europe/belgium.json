@@ -1,0 +1,41 @@
+{
+    "name": "Belgium",
+    "capital": "Bussels",
+    "continent": "Europe",
+    "currency": "Euro",
+    "religion": "Christianity",
+    "area": {
+        "metric": 30689,
+        "imperial": 11849
+    },
+    "population": 11492641,
+    "hdi": 0.919,
+    "drivingSide": "Right",
+    "tld": ".be",
+    "legislature": "Federal Parliament",
+    "language" : "Dutch, French",
+    "langBasic": {
+        "hello": "Hallo",
+        "hello1": "Bonjour",
+        "howareyou": "Hoe gaat het met je?",
+        "howareyou1": "Comment ça va ?",
+        "whatisname": "Wat is jouw naam?",
+        "whatisname1": "Quel est votre nom?",
+        "mynameis": "Mijn naam is...",
+        "mynameis1": "Mon nom est",
+        "goodmorning": "Goedemorgen",
+        "goodmorning1": "Bonjour",
+        "goodafternoon": "Goedenmiddag",
+        "goodafternoon1": "Bonne après-midi",
+        "goodevening": "Goedenavond",
+        "goodevening1": "Bonsoir",
+        "goodnight": "Goede nacht",
+        "goodnight1": "Bonne nuit",
+        "bye": "Doei",
+        "bye1": "Au revoir",
+        "yes": "Ja",
+        "yes1": "Oui",
+        "no": "Nee",
+        "no1": "Non"
+    }
+}

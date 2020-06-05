@@ -1,0 +1,30 @@
+{
+    "name": "Denmark",
+    "capital": "Copenhagen",
+    "continent": "Europe",
+    "currency": "Danish krone",
+    "religion": "Christianity",
+    "area": {
+        "metric": 42933,
+        "imperial": 16577
+    },
+    "population": 5824857,
+    "hdi": 0.930,
+    "drivingSide": "Right",
+    "tld": ".dk",
+    "legislature": "Folketing",
+    "language" : "Danish",
+    "langBasic": {
+        "hello": "Hej",
+        "howareyou": "Hvordan har du det?",
+        "whatisname": "Hvad hedder du?",
+        "mynameis": "Mit navn er...",
+        "goodmorning": "God morgen",
+        "goodafternoon": "God eftermiddag",
+        "goodevening": "God aften",
+        "goodnight": "Godnat",
+        "bye": "Farvel",
+        "yes": "Ja",
+        "no": "Nej"
+    }
+}

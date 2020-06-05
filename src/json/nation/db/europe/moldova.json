@@ -1,0 +1,30 @@
+{
+    "name": "Moldova",
+    "capital": "Chișinău",
+    "continent": "Europe",
+    "currency": "Moldovan leu",
+    "religion": "Orthodox Christians",
+    "area": {
+        "metric": 33846,
+        "imperial": 13068
+    },
+    "population":  2681735,
+    "hdi": 0.711,
+    "drivingSide": "Right",
+    "tld": ".md",
+    "legislature": "Parliament",
+    "language" : "Romanian",
+    "langBasic": {
+        "hello": "Buna",
+        "howareyou": "Ce mai faci?",
+        "whatisname": "Cum te numești?",
+        "mynameis": "Numele meu este ...",
+        "goodmorning": "Buna dimineata",
+        "goodafternoon": "Buna ziua",
+        "goodevening": "Bună seara",
+        "goodnight": "Noapte bună",
+        "bye": "Pa",
+        "yes": "Da",
+        "no": "Nu"
+    }
+}

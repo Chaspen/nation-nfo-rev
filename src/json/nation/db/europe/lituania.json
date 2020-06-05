@@ -1,0 +1,30 @@
+{
+    "name": "Lithuania",
+    "capital": "Vilnius",
+    "continent": "Europe",
+    "currency": "Euro",
+    "religion": "Catholic",
+    "area": {
+        "metric": 65300,
+        "imperial": 25200
+    },
+    "population": 2794329,
+    "hdi": 0.869,
+    "drivingSide": "Right",
+    "tld": ".lt",
+    "legislature": "Seimas",
+    "language" : "Lithuanian",
+    "langBasic": {
+        "hello": "Sveiki",
+        "howareyou": "Kaip laikaisi?",
+        "whatisname": "Koks tavo vardas?",
+        "mynameis": "Mano vardas yra",
+        "goodmorning": "Labas rytas",
+        "goodafternoon": "Laba diena",
+        "goodevening": "Labas vakaras",
+        "goodnight": "Labos nakties",
+        "bye": "Ate",
+        "yes": "Taip",
+        "no": "Ne"
+    }
+}

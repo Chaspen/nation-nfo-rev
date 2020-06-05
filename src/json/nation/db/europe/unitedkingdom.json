@@ -1,0 +1,30 @@
+{
+    "name": "United Kingdom",
+    "capital": "London",
+    "continent": "Europe",
+    "currency": "British pound",
+    "religion": "Christianity",
+    "area": {
+        "metric": 242495,
+        "imperial": 93628
+    },
+    "population": 67886004,
+    "hdi": 0.920,
+    "drivingSide": "Left",
+    "tld": ".",
+    "legislature": "Parliament",
+    "language" : "English",
+    "langBasic": {
+        "hello": "Hello",
+        "howareyou": "How are you?",
+        "whatisname": "What is your name?",
+        "mynameis": "My name is ...",
+        "goodmorning": "Good morning",
+        "goodafternoon": "Good afternoon",
+        "goodevening": "Good evening",
+        "goodnight": "Good night",
+        "bye": "Bye",
+        "yes": "Yes",
+        "no": "No"
+    }
+}

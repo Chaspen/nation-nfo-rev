@@ -1,0 +1,30 @@
+{
+    "name": "Liechtenstein",
+    "capital": "Vaduz",
+    "continent": "Europe",
+    "currency": "Swiss franc",
+    "religion": "Catholicism",
+    "area": {
+        "metric": 160,
+        "imperial": 62
+    },
+    "population": 38749,
+    "hdi": 0.917,
+    "drivingSide": "Right",
+    "tld": ".li",
+    "legislature": "Landtag",
+    "language" : "German",
+    "langBasic": {
+        "hello": "Hallo",
+        "howareyou": "Wie geht es dir?",
+        "whatisname": "Wie heißen Sie?",
+        "mynameis": "Ich heiße ..",
+        "goodmorning": "Guten Morgen",
+        "goodafternoon": "Guten Nachmittag",
+        "goodevening": "Guten Abend",
+        "goodnight": "Gute Nacht",
+        "bye": "Tschüss",
+        "yes": "Ja",
+        "no": "Nein"
+    }
+}

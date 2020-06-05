@@ -1,0 +1,30 @@
+{
+    "name": "Hungary",
+    "capital": "Budapest",
+    "continent": "Europe",
+    "currency": "Hungarian forint",
+    "religion": "Christianity",
+    "area": {
+        "metric": 93030,
+        "imperial": 35920
+    },
+    "population": 9772756,
+    "hdi": 0.845,
+    "drivingSide": "Right",
+    "tld": ".hu",
+    "legislature": "Országgyűlés",
+    "language" : "Hungarian",
+    "langBasic": {
+        "hello": "Szia",
+        "howareyou": "Hogy vagy?",
+        "whatisname": "Mi a neved?",
+        "mynameis": "A nevem...",
+        "goodmorning": "Jó reggelt kívánok",
+        "goodafternoon": "Jó napot",
+        "goodevening": "Jó estét",
+        "goodnight": "ó éjszakát",
+        "bye": "Viszlát",
+        "yes": "Igen",
+        "no": "Nem"
+    }
+}

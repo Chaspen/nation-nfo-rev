@@ -1,0 +1,30 @@
+{
+    "name": "Chile",
+    "capital": "Santiago",
+    "continent": "South America",
+    "currency": "Chilean peso",
+    "religion": "Roman Catholic",
+    "area": {
+        "metric": 756096.3,
+        "imperial": 291930.4
+    },
+    "population": 17574003,
+    "hdi": 0.847,
+    "drivingSide": "Right",
+    "tld": ".cl",
+    "legislature": "National Congress",
+    "language" : "Spanish",
+    "langBasic": {
+        "hello": "Hola",
+        "howareyou": "Cómo estás",
+        "whatisname": "Cuál es su nombre",
+        "mynameis": "Me llamo ...",
+        "goodmorning": "Buenos días",
+        "goodafternoon": "Buenas tardes",
+        "goodevening": "Buena noches",
+        "goodnight": "Buenas noches",
+        "bye": "Adiós",
+        "yes": "Si",
+        "no": "No"
+    }
+}

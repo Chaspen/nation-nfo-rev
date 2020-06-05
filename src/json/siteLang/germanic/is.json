@@ -1,0 +1,39 @@
+{
+    "category":{
+        "1": "Enskumælandi þjóðir",
+        "2": "Hollenskumælandi þjóðir",
+        "3": "Frönskumælandi þjóðir",
+        "4": "Spænskumælandi þjóðir",
+        "5": "Arabískumælandi þjóðir",
+        "6": "Portúgalskumælandi þjóðir",
+        "7": "Rómantík tungumál tala þjóðir",
+        "8": "Slavískt talandi þjóðir",
+        "9": "Germönskumælandi þjóðir",
+        "10": "Indó-evrópskumælandi þjóðum",
+        "11": "Semetic tungumál tala þjóðir",
+        "12": "Túrkískumælandi þjóðir",
+        "13": "Þvalsmál tala þjóða",
+        "14": "Fyrrum Sovétmenn",
+        "15": "Aðildarríki NATO"
+    },
+
+    "lang":{
+        "1": "Enska",
+        "2": "Þýska",
+        "3": "Hollenskir",
+        "4": "Sænsku",
+        "5": "Íslensku",
+        "6": "Spænska",
+        "7": "Portúgalska",
+        "8": "Ítalska",
+        "9": "Frönsku",
+        "10": "Rúmenska",
+        "11": "Pólsku",
+        "12": "Rússneska",
+        "13": "Úkraínska",
+        "14": "Japönsku",
+        "15": "Kínversku",
+        "16": "Kóreska",
+        "17": "Finnskt"
+    }
+}

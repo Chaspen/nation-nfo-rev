@@ -1,0 +1,30 @@
+{
+    "name": "Iceland",
+    "capital": "Reykjavík",
+    "continent": "Europe",
+    "currency": "Icelandic króna",
+    "religion": "Evangelical Lutheran Christianity",
+    "area": {
+        "metric": 	102775,
+        "imperial": 39682
+    },
+    "population": 364134,
+    "hdi": 0.938,
+    "drivingSide": "Right",
+    "tld": ".is",
+    "legislature": "Althing",
+    "language" : "Icelandic",
+    "langBasic": {
+        "hello": "Halló",
+        "howareyou": "Hvernig hefurðu það?",
+        "whatisname": "Hvað heitir þú?",
+        "mynameis": "Ég heiti...",
+        "goodmorning": "Góðan daginn",
+        "goodafternoon": "Góðan daginn",
+        "goodevening": "Gott kvöld",
+        "goodnight": "Góða nótt",
+        "bye": "Bless",
+        "yes": "Já",
+        "no": "Nei"
+    }
+}

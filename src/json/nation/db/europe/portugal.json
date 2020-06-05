@@ -1,0 +1,30 @@
+{
+    "name": "Portugal",
+    "capital": "Lisbon",
+    "continent": "Europe",
+    "currency": "Euro",
+    "religion": "Roman Catholic",
+    "area": {
+        "metric": 92212,
+        "imperial": 35603
+    },
+    "population": 10276617,
+    "hdi": 0.850,
+    "drivingSide": "Right",
+    "tld": ".pt",
+    "legislature": "Assembly of the Republic",
+    "language" : "Portuguese",
+    "langBasic": {
+        "hello": "Olá",
+        "howareyou": "Como você está?",
+        "whatisname": "Qual é o seu nome?",
+        "mynameis": "Meu nome é...",
+        "goodmorning": "Bom dia",
+        "goodafternoon": "Boa tarde",
+        "goodevening": "Boa noite",
+        "goodnight": "Boa noite",
+        "bye": "Tchau",
+        "yes": "Sim",
+        "no": "Não"
+    }
+}

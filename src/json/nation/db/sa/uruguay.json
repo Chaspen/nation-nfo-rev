@@ -1,0 +1,30 @@
+{
+    "name": "Uruguay",
+    "capital": "Montevideo",
+    "continent": "South America",
+    "currency": "Uruguayan peso",
+    "religion": "Roman Catholicism",
+    "area": {
+        "metric": 176215,
+        "imperial": 68037
+    },
+    "population": 3518552,
+    "hdi": 0.808,
+    "drivingSide": "Right",
+    "tld": ".uy",
+    "legislature": "General Assembly",
+    "language" : "Spanish",
+    "langBasic": {
+        "hello": "Hola",
+        "howareyou": "Cómo estás",
+        "whatisname": "Cuál es su nombre",
+        "mynameis": "Me llamo ...",
+        "goodmorning": "Buenos días",
+        "goodafternoon": "Buenas tardes",
+        "goodevening": "Buena noches",
+        "goodnight": "Buenas noches",
+        "bye": "Adiós",
+        "yes": "Si",
+        "no": "No"
+    }
+}

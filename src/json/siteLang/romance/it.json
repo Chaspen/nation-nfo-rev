@@ -1,0 +1,39 @@
+{
+    "category":{
+        "1": "Nazioni di lingua inglese",
+        "2": "Nazioni di lingua olandese",
+        "3": "Nazioni di lingua francese",
+        "4": "Nazioni di lingua spagnola",
+        "5": "Nazioni di lingua araba",
+        "6": "Nazioni di lingua portoghese",
+        "7": "Nazioni di lingua romanza",
+        "8": "Nazioni di lingua slava",
+        "9": "Nazioni di lingua germanica",
+        "10": "Nazioni di lingua indoeuropea",
+        "11": "Nazioni di lingua turca",
+        "12": "Nazioni di lingua semetica",
+        "13": "Nazioni che parlano la lingua uralica",
+        "14": "Ex nazioni sovietiche",
+        "15": "Nazioni membri della NATO"
+    },
+
+    "lang":{
+        "1": "Inglese",
+        "2": "Tedesco",
+        "3": "Olandese",
+        "4": "Svedese",
+        "5": "Islandese",
+        "6": "Spagnolo",
+        "7": "Portoghese",
+        "8": "Italiano",
+        "9": "Francese",
+        "10": "Rumeno",
+        "11": "Polacco",
+        "12": "Russo",
+        "13": "Ucraino",
+        "14": "Giapponese",
+        "15": "Cinese",
+        "16": "Coreano",
+        "17": "Finlandese"
+    }
+}

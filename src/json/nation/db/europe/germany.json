@@ -1,0 +1,30 @@
+{
+    "name": "Germany",
+    "capital": "Berlin",
+    "continent": "Europe",
+    "currency": "Euro",
+    "religion": "Christianity",
+    "area": {
+        "metric": 357022,
+        "imperial": 137847
+    },
+    "population":  83149300,
+    "hdi": 0.939,
+    "drivingSide": "Right",
+    "tld": ".de",
+    "legislature": "Bundesrat",
+    "language" : "German",
+    "langBasic": {
+        "hello": "Hallo",
+        "howareyou": "Wie geht es dir?",
+        "whatisname": "Wie heißen Sie?",
+        "mynameis": "Ich heiße ..",
+        "goodmorning": "Guten Morgen",
+        "goodafternoon": "Guten Nachmittag",
+        "goodevening": "Guten Abend",
+        "goodnight": "Gute Nacht",
+        "bye": "Tschüss",
+        "yes": "Ja",
+        "no": "Nein"
+    }
+}

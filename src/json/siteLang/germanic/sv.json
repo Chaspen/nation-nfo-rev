@@ -1,0 +1,39 @@
+{
+    "category":{
+        "1": "Engelsktalande nationer",
+        "2": "Holländska talande nationer",
+        "3": "Fransktalande nationer",
+        "4": "Spansktalande nationer",
+        "5": "Arabiskt talande nationer",
+        "6": "Portugisktalande nationer",
+        "7": "Romantiska språk talande nationer",
+        "8": "Slavisktalande nationer",
+        "9": "Germanska språkpratande nationer",
+        "10": "Indoeuropeiska språkpratande nationer",
+        "11": "Semetiska talande nationer",
+        "12": "Turkiska språkpratande nationer",
+        "13": "Uraliska språk som talar nationer",
+        "14": "Tidigare sovjetiska nationer",
+        "15": "Natos medlemsländer"
+    },
+
+    "lang":{
+        "1": "Engelsk",
+        "2": "Tysk",
+        "3": "Holländska",
+        "4": "Svenska",
+        "5": "Isländsk",
+        "6": "Spanska",
+        "7": "Portugisiska",
+        "8": "Italiensk",
+        "9": "Franska",
+        "10": "Rumänska",
+        "11": "Polska",
+        "12": "Ryska",
+        "13": "Ukrainska",
+        "14": "Japansk",
+        "15": "Kinesisk",
+        "16": "Koreanska",
+        "17": "Finska"
+    }
+}

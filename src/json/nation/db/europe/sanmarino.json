@@ -1,0 +1,30 @@
+{
+    "name": "San Marino",
+    "capital": "San Marino",
+    "continent": "Europe",
+    "currency": "Euro",
+    "religion": "Catholicism",
+    "area": {
+        "metric": 61.2,
+        "imperial": 23.6
+    },
+    "population": 33344,
+    "hdi": 0.875,
+    "drivingSide": "Right",
+    "tld": ".sm",
+    "legislature": "Grand and General Council",
+    "language" : "Italian",
+    "langBasic": {
+        "hello": "Ciao",
+        "howareyou": "Come stai",
+        "whatisname": "Come ti chiami?",
+        "mynameis": "Mi chiamo...",
+        "goodmorning": "Buongiorno",
+        "goodafternoon": "Buon pomeriggio",
+        "goodevening": "Buonasera",
+        "goodnight": "Buona notte",
+        "bye": "Ciao",
+        "yes": "Sì",
+        "no": "No"
+    }
+}

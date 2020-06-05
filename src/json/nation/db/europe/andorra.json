@@ -1,0 +1,30 @@
+{
+    "name": "Andorra",
+    "capital": "Andorra la Vella",
+    "continent": "Europe",
+    "currency": "Euro",
+    "religion": "Roman Catholicism",
+    "area": {
+        "metric": 467.63,
+        "imperial": 180.55
+    },
+    "population": 77543,
+    "hdi": 0.857,
+    "drivingSide": "Right",
+    "tld": ".ad",
+    "legislature": "General Council",
+    "language" : "Catalan",
+    "langBasic": {
+        "hello": "Hola",
+        "howareyou": "Com estàs?",
+        "whatisname": "Com et dius?",
+        "mynameis": "Em dic ...",
+        "goodmorning": "Bon dia",
+        "goodafternoon": "Bona tarda",
+        "goodevening": "Bona nit",
+        "goodnight": "Bona nit",
+        "bye": "Adéu",
+        "yes": "Sí",
+        "no": "No"
+    }
+}

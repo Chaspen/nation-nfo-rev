@@ -1,0 +1,30 @@
+{
+    "name": "",
+    "capital": "",
+    "continent": "",
+    "currency": "",
+    "religion": "",
+    "area": {
+        "metric": null,
+        "imperial": null
+    },
+    "population": null,
+    "hdi": null,
+    "drivingSide": "",
+    "tld": ".",
+    "legislature": "",
+    "language" : "",
+    "langBasic": {
+        "hello": "Halo",
+        "howareyou": "Apa kabar",
+        "whatisname": "",
+        "mynameis": "",
+        "goodmorning": "",
+        "goodafternoon": "",
+        "goodevening": "",
+        "goodnight": "",
+        "bye": "",
+        "yes": "",
+        "no": ""
+    }
+}

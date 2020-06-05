@@ -1,0 +1,30 @@
+{
+    "name": "Ukraine",
+    "capital": "Kiev",
+    "continent": "Europe",
+    "currency": "Ukrainian hryvnia",
+    "religion": "Eastern Orthodox Christianity",
+    "area": {
+        "metric": 603628,
+        "imperial": 233062
+    },
+    "population": 41660982,
+    "hdi": 0.750,
+    "drivingSide": "Right",
+    "tld": ".ua",
+    "legislature": "Verkhovna Rada",
+    "language" : "Ukrainian",
+    "langBasic": {
+        "hello": "Здравствуйте",
+        "howareyou": "Як справи",
+        "whatisname": "Як вас звати?",
+        "mynameis": "Мене звати",
+        "goodmorning": "Добрий ранок",
+        "goodafternoon": "Доброго дня",
+        "goodevening": "Доброго вечора",
+        "goodnight": "Надобраніч",
+        "bye": "До побачення",
+        "yes": "Так",
+        "no": "Ні"
+    }
+}

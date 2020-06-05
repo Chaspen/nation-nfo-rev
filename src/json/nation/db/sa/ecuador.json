@@ -1,0 +1,30 @@
+{
+    "name": "Ecuador",
+    "capital": "Quito",
+    "continent": "South America",
+    "currency": "United States dollar",
+    "religion": "",
+    "area": {
+        "metric": 283561,
+        "imperial": 109484
+    },
+    "population": 17084358,
+    "hdi": 0.758,
+    "drivingSide": "Right",
+    "tld": ".ec",
+    "legislature": "National Assembly",
+    "language" : "Spanish",
+    "langBasic": {
+        "hello": "Hola",
+        "howareyou": "Cómo estás",
+        "whatisname": "Cuál es su nombre",
+        "mynameis": "Me llamo ...",
+        "goodmorning": "Buenos días",
+        "goodafternoon": "Buenas tardes",
+        "goodevening": "Buena noches",
+        "goodnight": "Buenas noches",
+        "bye": "Adiós",
+        "yes": "Si",
+        "no": "No"
+    }
+}

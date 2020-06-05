@@ -1,0 +1,30 @@
+{
+    "name": "Slovakia",
+    "capital": "Bratislava",
+    "continent": "Europe",
+    "currency": "Euro",
+    "religion": "Roman Catholic",
+    "area": {
+        "metric": 49035,
+        "imperial": 18933
+    },
+    "population": 5457926,
+    "hdi": 0.857,
+    "drivingSide": "Right",
+    "tld": ".sk",
+    "legislature": "National Council",
+    "language" : "Slovak",
+    "langBasic": {
+        "hello": "Ahoj",
+        "howareyou": "Ako sa máš",
+        "whatisname": "Ako sa voláš?",
+        "mynameis": "Moje meno je ...",
+        "goodmorning": "Dobré ráno",
+        "goodafternoon": "Dobrý deň",
+        "goodevening": "Dobrý večer",
+        "goodnight": "Dobrú noc",
+        "bye": "Zbohom",
+        "yes": "Áno",
+        "no": "žiadny"
+    }
+}

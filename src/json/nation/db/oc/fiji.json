@@ -1,0 +1,30 @@
+{
+    "name": "Fiji",
+    "capital": "Suva",
+    "continent": "Oceania",
+    "currency": "",
+    "religion": "",
+    "area": {
+        "metric": 18274,
+        "imperial": 7056
+    },
+    "population": 926276,
+    "hdi": 0.724,
+    "drivingSide": "Left",
+    "tld": ".fj",
+    "legislature": "Parliament",
+    "language" : "Fijian",
+    "langBasic": {
+        "hello": "Bula",
+        "howareyou": "Vacava tiko?",
+        "whatisname": "O cei na yacamu?",
+        "mynameis": "Na yacaqu o ...",
+        "goodmorning": "Ni sa yadra",
+        "goodafternoon": "Ni sa Bula",
+        "goodevening": "Ni sa Bula",
+        "goodnight": "Ni sa moce",
+        "bye": "Ni sa moce",
+        "yes": "Lo",
+        "no": "Sega"
+    }
+}

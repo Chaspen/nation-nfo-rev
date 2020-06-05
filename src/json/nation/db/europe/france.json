@@ -1,0 +1,30 @@
+{
+    "name": "France",
+    "capital": "Paris",
+    "continent": "Europe",
+    "currency": "Euro",
+    "religion": "Roman Catholic",
+    "area": {
+        "metric": 640679,
+        "imperial": 247368
+    },
+    "population": 67063703,
+    "hdi": 0.891,
+    "drivingSide": "Right",
+    "tld": ".fr",
+    "legislature": "Parliament",
+    "language" : "French",
+    "langBasic": {
+        "hello": "Bonjour",
+        "howareyou": "Comment ça va ?",
+        "whatisname": "Quel est votre nom?",
+        "mynameis": "Mon nom est...",
+        "goodmorning": "Bonjour",
+        "goodafternoon": "Bonne après-midi",
+        "goodevening": "Bonsoir",
+        "goodnight": "Bonne nuit",
+        "bye": "Au revoir",
+        "yes": "Oui",
+        "no": "Non"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Paraguay",
+    "capital": "Asunción",
+    "continent": "South America",
+    "currency": "Guaraní",
+    "religion": "Roman Catholicism",
+    "area": {
+        "metric": 406752,
+        "imperial": 157048
+    },
+    "population": 7252672,
+    "hdi": 0.724,
+    "drivingSide": "Right",
+    "tld": ".py",
+    "legislature": "Congress",
+    "language" : "Spanish",
+    "langBasic": {
+        "hello": "Hola",
+        "howareyou": "Cómo estás",
+        "whatisname": "Cuál es su nombre",
+        "mynameis": "Me llamo ...",
+        "goodmorning": "Buenos días",
+        "goodafternoon": "Buenas tardes",
+        "goodevening": "Buena noches",
+        "goodnight": "Buenas noches",
+        "bye": "Adiós",
+        "yes": "Si",
+        "no": "No"
+    }
+}

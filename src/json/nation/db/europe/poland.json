@@ -1,0 +1,30 @@
+{
+    "name": "Poland",
+    "capital": "Warsaw",
+    "continent": "Europe",
+    "currency": "Polish złoty",
+    "religion": "Roman Catholic",
+    "area": {
+        "metric": 312696,
+        "imperial": 120733
+    },
+    "population": 38386000,
+    "hdi": 0.872,
+    "drivingSide": "Right",
+    "tld": ".pl",
+    "legislature": "National Assembly",
+    "language" : "Polish",
+    "langBasic": {
+        "hello": "",
+        "howareyou": "Witaj",
+        "whatisname": "Jak mam na imię?",
+        "mynameis": "Nazywam się ...",
+        "goodmorning": "Dzień dobry",
+        "goodafternoon": "Dzień dobry",
+        "goodevening": "Dobry wieczór",
+        "goodnight": "Dobranoc",
+        "bye": "Do widzenia",
+        "yes": "Tak",
+        "no": "Nie"
+    }
+}

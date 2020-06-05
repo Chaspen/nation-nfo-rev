@@ -1,0 +1,30 @@
+{
+    "name": "Australia",
+    "capital": "Canberra",
+    "continent": "Oceania",
+    "currency": "Australian dollar",
+    "religion": "Christianity",
+    "area": {
+        "metric": 7692024,
+        "imperial": 2969907
+    },
+    "population": 25730100,
+    "hdi": 0.938,
+    "drivingSide": "Left",
+    "tld": ".au",
+    "legislature": "Parliament",
+    "language" : "English",
+    "langBasic": {
+        "hello": "Hello",
+        "howareyou": "How are you?",
+        "whatisname": "What is your name?",
+        "mynameis": "My name is ...",
+        "goodmorning": "Good morning",
+        "goodafternoon": "Good afternoon",
+        "goodevening": "Good evening",
+        "goodnight": "Good night",
+        "bye": "Bye",
+        "yes": "Yes",
+        "no": "No"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "category":{
+        "1": "Englisch sprechende Nationen",
+        "2": "Niederländischsprachige Nationen",
+        "3": "Französisch sprechende Nationen",
+        "4": "Spanisch sprechende Nationen",
+        "5": "Arabisch sprechende Nationen",
+        "6": "Portugiesisch sprechende Nationen",
+        "7": "Romantisch sprechende Nationen",
+        "8": "Slawischsprachige Nationen",
+        "9": "Germanisch sprechende Nationen",
+        "10": "Indogermanischsprachige Nationen",
+        "11": "Semetisch sprechende Nationen",
+        "12": "Türkisch sprechende Nationen",
+        "13": "Uralisch sprechende Nationen",
+        "14": "Ehemalige sowjetische Nationen",
+        "15": "NATO-Mitgliedsstaaten"
+    },
+
+    "lang":{
+        "1": "Englisch",
+        "2": "Deutsche",
+        "3": "Niederländisch",
+        "4": "Schwedisch",
+        "5": "Isländisch",
+        "6": "Spanisch",
+        "7": "Portugiesisch",
+        "8": "Italienisch",
+        "9": "Französisch",
+        "10": "Rumänisch",
+        "11": "Polieren",
+        "12": "Russisch",
+        "13": "Ukrainisch",
+        "14": "Japanisch",
+        "15": "Chinesisch",
+        "16": "Koreanisch",
+        "17": "Finnisch"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Luxembourg",
+    "capital": "Luxembourg City",
+    "continent": "Europe",
+    "currency": "Euro",
+    "religion": "Catholic",
+    "area": {
+        "metric": 2586.4,
+        "imperial": 998.6
+    },
+    "population": 626108,
+    "hdi": 0.909,
+    "drivingSide": "Right",
+    "tld": ".lu",
+    "legislature": "Chamber of Deputies",
+    "language" : "Luxembourgish",
+    "langBasic": {
+        "hello": "Hallo",
+        "howareyou": "Wéi geet et dir?",
+        "whatisname": "Wéi heeschs du?",
+        "mynameis": "Mäin Numm ass ...",
+        "goodmorning": "Gudde Moien",
+        "goodafternoon": "Gudden Nomëtteg",
+        "goodevening": "Gudden Owend",
+        "goodnight": "Gutt Nuecht",
+        "bye": "Äddi",
+        "yes": "Jo",
+        "no": "Nee"
+    }
+}

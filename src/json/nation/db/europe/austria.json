@@ -1,0 +1,30 @@
+{
+    "name": "Austria",
+    "capital": "Vienna",
+    "continent": "Europe",
+    "currency": "Euro",
+    "religion": "Catholic",
+    "area": {
+        "metric": 83879,
+        "imperial": 32386
+    },
+    "population": 8902600,
+    "hdi": 0.914,
+    "drivingSide": "Right",
+    "tld": ".at",
+    "legislature": "Parliament",
+    "language" : "German",
+    "langBasic": {
+        "hello": "Hallo",
+        "howareyou": "Wie geht es dir?",
+        "whatisname": "Wie heißen Sie?",
+        "mynameis": "Ich heiße ..",
+        "goodmorning": "Guten Morgen",
+        "goodafternoon": "Guten Nachmittag",
+        "goodevening": "Guten Abend",
+        "goodnight": "Gute Nacht",
+        "bye": "Tschüss",
+        "yes": "Ja",
+        "no": "Nein"
+    }
+}

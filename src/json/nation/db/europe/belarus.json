@@ -1,0 +1,30 @@
+{
+    "name": "Belarus",
+    "capital": "Minsk",
+    "continent": "Europe",
+    "currency": "Belarusian ruble",
+    "religion": "Eastern Orthodox Christianity",
+    "area": {
+        "metric": 207595,
+        "imperial": 80153
+    },
+    "population": 9408400,
+    "hdi": 0.817,
+    "drivingSide": "Right",
+    "tld": ".by",
+    "legislature": "National Assembly",
+    "language" : "Belarusian",
+    "langBasic": {
+        "hello": "добры дзень",
+        "howareyou": "як ты?",
+        "whatisname": "як цябе завуць?",
+        "mynameis": "мяне завуць...",
+        "goodmorning": "добрай раніцы",
+        "goodafternoon": "добры дзень",
+        "goodevening": "добры вечар",
+        "goodnight": "Дабранач",
+        "bye": "бывай",
+        "yes": "так",
+        "no": "не"
+    }
+}

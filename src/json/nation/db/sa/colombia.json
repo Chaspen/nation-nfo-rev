@@ -1,0 +1,30 @@
+{
+    "name": "Colombia",
+    "capital": "Bogotá",
+    "continent": "South America",
+    "currency": "Colombian peso",
+    "religion": "Roman Catholic",
+    "area": {
+        "metric": 1141748,
+        "imperial": 440831
+    },
+    "population": 50372424,
+    "hdi": 0.761,
+    "drivingSide": "Right",
+    "tld": ".co",
+    "legislature": "Congress",
+    "language" : "Spanish",
+    "langBasic": {
+        "hello": "Hola",
+        "howareyou": "Cómo estás",
+        "whatisname": "Cuál es su nombre",
+        "mynameis": "Me llamo ...",
+        "goodmorning": "Buenos días",
+        "goodafternoon": "Buenas tardes",
+        "goodevening": "Buena noches",
+        "goodnight": "Buenas noches",
+        "bye": "Adiós",
+        "yes": "Si",
+        "no": "No"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Croatia",
+    "capital": "Zagreb",
+    "continent": "Europe",
+    "currency": "Kuna",
+    "religion": "Roman Catholicism",
+    "area": {
+        "metric": 56594,
+        "imperial": 21851
+    },
+    "population": 4076246,
+    "hdi": 0.837,
+    "drivingSide": "Right",
+    "tld": ".hr",
+    "legislature": "Sabor",
+    "language" : "Croatian",
+    "langBasic": {
+        "hello": "Zdravo",
+        "howareyou": "Kako si?",
+        "whatisname": "Kako se zoveš?",
+        "mynameis": "Moje ime je...",
+        "goodmorning": "Dobro jutro",
+        "goodafternoon": "Dobar dan",
+        "goodevening": "Dobra večer",
+        "goodnight": "Laku noć",
+        "bye": "Pozdrav",
+        "yes": "Da",
+        "no": "Ne"
+    }
+}

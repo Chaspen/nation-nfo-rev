@@ -1,0 +1,30 @@
+{
+    "name": "Montenegro",
+    "capital": "Podgorica",
+    "continent": "Europe",
+    "currency": "Euro",
+    "religion": "Eastern Orthodox Christianity",
+    "area": {
+        "metric": 13812,
+        "imperial": 5333
+    },
+    "population": 631219,
+    "hdi": 0.816,
+    "drivingSide": "Right",
+    "tld": ".me",
+    "legislature": "Skupština",
+    "language" : "Montenegrin",
+    "langBasic": {
+        "hello": "Zdravo",
+        "howareyou": "Kako si?",
+        "whatisname": "Kako se zoveš?",
+        "mynameis": "Moje ime je ...",
+        "goodmorning": "Dobro Jutro",
+        "goodafternoon": "Dobar Dan",
+        "goodevening": "Dobro veče",
+        "goodnight": "Dobro veče",
+        "bye": "Doviđenja!",
+        "yes": "Da",
+        "no": "Ne"
+    }
+}

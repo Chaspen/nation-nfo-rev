@@ -1,0 +1,30 @@
+{
+    "name": "Venezuela",
+    "capital": "Caracas",
+    "continent": "South America",
+    "currency": "Bolívar Soberano",
+    "religion": "Roman Catholicism",
+    "area": {
+        "metric": 916445,
+        "imperial": 353841
+    },
+    "population": 28887118,
+    "hdi": 0.726,
+    "drivingSide": "Right",
+    "tld": ".ve",
+    "legislature": "National Assembly",
+    "language" : "Spanish",
+    "langBasic": {
+        "hello": "Hola",
+        "howareyou": "Cómo estás",
+        "whatisname": "Cuál es su nombre",
+        "mynameis": "Me llamo ...",
+        "goodmorning": "Buenos días",
+        "goodafternoon": "Buenas tardes",
+        "goodevening": "Buena noches",
+        "goodnight": "Buenas noches",
+        "bye": "Adiós",
+        "yes": "Si",
+        "no": "No"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Greece",
+    "capital": "Athens",
+    "continent": "Europe",
+    "currency": "Euro",
+    "religion": "Eastern Orthodoxy",
+    "area": {
+        "metric": 131957,
+        "imperial": 50949
+    },
+    "population": 10724599,
+    "hdi": 0.872,
+    "drivingSide": "Right",
+    "tld": ".gr",
+    "legislature": "Hellenic Parliament",
+    "language" : "Greek",
+    "langBasic": {
+        "hello": "Χαίρετε",
+        "howareyou": "Πώς είσαι ?",
+        "whatisname": "Πως σε λένε?",
+        "mynameis": "Το όνομά μου είναι...",
+        "goodmorning": "Καλημέρα",
+        "goodafternoon": "Καλό απόγευμα",
+        "goodevening": "Καλό απόγευμα",
+        "goodnight": "Καληνυχτα",
+        "bye": "Αντίο",
+        "yes": "Ναί",
+        "no": "Οχι"
+    }
+}

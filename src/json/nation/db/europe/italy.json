@@ -1,0 +1,30 @@
+{
+    "name": "Italy",
+    "capital": "Rome",
+    "continent": "Europe",
+    "currency": "Euro",
+    "religion": "Roman Catholic",
+    "area": {
+        "metric": 301340,
+        "imperial": 116350
+    },
+    "population": 60317116,
+    "hdi": 0.883,
+    "drivingSide": "Right",
+    "tld": ".it",
+    "legislature": "Parliament",
+    "language" : "Italian",
+    "langBasic": {
+        "hello": "Ciao",
+        "howareyou": "Come stai",
+        "whatisname": "Come ti chiami?",
+        "mynameis": "Mi chiamo...",
+        "goodmorning": "Buongiorno",
+        "goodafternoon": "Buon pomeriggio",
+        "goodevening": "Buonasera",
+        "goodnight": "Buona notte",
+        "bye": "Ciao",
+        "yes": "Sì",
+        "no": "No"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Bolivia",
+    "capital": "Sucre",
+    "continent": "South America",
+    "currency": "Boliviano",
+    "religion": "Roman Catholic",
+    "area": {
+        "metric": 1098581,
+        "imperial": 424164
+    },
+    "population": 11469896,
+    "hdi": 0.703,
+    "drivingSide": "Right",
+    "tld": ".bo",
+    "legislature": "Plurinational Legislative Assembly",
+    "language" : "Spanish",
+    "langBasic": {
+        "hello": "Hola",
+        "howareyou": "Cómo estás",
+        "whatisname": "Cuál es su nombre",
+        "mynameis": "Me llamo ...",
+        "goodmorning": "Buenos días",
+        "goodafternoon": "Buenas tardes",
+        "goodevening": "Buena noches",
+        "goodnight": "Buenas noches",
+        "bye": "Adiós",
+        "yes": "Si",
+        "no": "No"
+    }
+}

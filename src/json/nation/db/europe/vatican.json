@@ -1,0 +1,30 @@
+{
+    "name": "Vatican City",
+    "capital": "Vatican City(City state)",
+    "continent": "Europe",
+    "currency": "Euro",
+    "religion": "Catholicism",
+    "area": {
+        "metric": 0.49,
+        "imperial": 0.19
+    },
+    "population": 825,
+    "hdi": null,
+    "drivingSide": "Right",
+    "tld": ".va",
+    "legislature": "Pontifical Commission",
+    "language" : "Italian",
+    "langBasic": {
+        "hello": "Ciao",
+        "howareyou": "Come stai",
+        "whatisname": "Come ti chiami?",
+        "mynameis": "Mi chiamo...",
+        "goodmorning": "Buongiorno",
+        "goodafternoon": "Buon pomeriggio",
+        "goodevening": "Buonasera",
+        "goodnight": "Buona notte",
+        "bye": "Ciao",
+        "yes": "Sì",
+        "no": "No"
+    }
+}

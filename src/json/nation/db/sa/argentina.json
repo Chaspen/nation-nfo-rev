@@ -1,0 +1,30 @@
+{
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "continent": "South America",
+    "currency": "Argentine peso",
+    "religion": "Roman Catholic",
+    "area": {
+        "metric": 2780400,
+        "imperial": 1073500
+    },
+    "population": 44938712,
+    "hdi": 0.830,
+    "drivingSide": "Right",
+    "tld": ".ar",
+    "legislature": "National Congress",
+    "language" : "Spanish",
+    "langBasic": {
+        "hello": "Hola",
+        "howareyou": "Cómo estás",
+        "whatisname": "Cuál es su nombre",
+        "mynameis": "Me llamo ...",
+        "goodmorning": "Buenos días",
+        "goodafternoon": "Buenas tardes",
+        "goodevening": "Buena noches",
+        "goodnight": "Buenas noches",
+        "bye": "Adiós",
+        "yes": "Si",
+        "no": "No"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Latvia",
+    "capital": "Riga",
+    "continent": "Europe",
+    "currency": "Euro",
+    "religion": "Christianity",
+    "area": {
+        "metric": 64589,
+        "imperial": 24938
+    },
+    "population": 1919968,
+    "hdi": 0.854,
+    "drivingSide": "Right",
+    "tld": ".lv",
+    "legislature": "Saeima",
+    "language" : "Latvian",
+    "langBasic": {
+        "hello": "Sveiki",
+        "howareyou": "Kā tev iet ?",
+        "whatisname": "Kāds ir tavs vārds?",
+        "mynameis": "Mani sauc ...",
+        "goodmorning": "Labrīt",
+        "goodafternoon": "Labdien",
+        "goodevening": "Labvakar",
+        "goodnight": "Ar labunakti",
+        "bye": "Ardievas",
+        "yes": "Jā",
+        "no": "Nē"
+    }
+}

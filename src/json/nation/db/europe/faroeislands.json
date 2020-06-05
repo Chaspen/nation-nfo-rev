@@ -1,0 +1,30 @@
+{
+    "name": "Faroe Islands",
+    "capital": "Tórshavn",
+    "continent": "Europe",
+    "currency": "Faroese króna",
+    "religion": "Christianity",
+    "area": {
+        "metric": 1399,
+        "imperial": 540
+    },
+    "population": 52110,
+    "hdi": 0.950,
+    "drivingSide": "Right",
+    "tld": ".fo",
+    "legislature": "Løgting",
+    "language" : "Faroese",
+    "langBasic": {
+        "hello": "Hallo",
+        "howareyou": "Hvussu gongur?",
+        "whatisname": "Hvussu eitur tú?",
+        "mynameis": "Eg eiti...",
+        "goodmorning": "Góðan morgun",
+        "goodafternoon": "Góðan dagin",
+        "goodevening": "Gott kvøld",
+        "goodnight": "Góða nátt",
+        "bye": "Farvæl",
+        "yes": "Ja",
+        "no": "Nei"
+    }
+}

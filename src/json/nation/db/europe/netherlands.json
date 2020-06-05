@@ -1,0 +1,30 @@
+{
+    "name": "The Netherlands",
+    "capital": "Amsterdam",
+    "continent": "Europe",
+    "currency": "Euro",
+    "religion": "Non-religious",
+    "area": {
+        "metric": 41865,
+        "imperial": 16164
+    },
+    "population": 17418465,
+    "hdi": 0.933,
+    "drivingSide": "Right",
+    "tld": ".nl",
+    "legislature": "States General",
+    "language" : "Dutch",
+    "langBasic": {
+        "hello": "Hallo",
+        "howareyou": "Hoe gaat het met je?",
+        "whatisname": "Wat is jouw naam?",
+        "mynameis": "Mijn naam is...",
+        "goodmorning": "Goedemorgen",
+        "goodafternoon": "Goedenmiddag",
+        "goodevening": "Goedenavond",
+        "goodnight": "Goede nacht",
+        "bye": "Doei",
+        "yes": "Ja",
+        "no": "Nee"
+    }
+}

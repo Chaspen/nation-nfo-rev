@@ -1,0 +1,39 @@
+{
+    "category":{
+        "1": "Engels sprekende landen",
+        "2": "Nederlandstalige landen",
+        "3": "Franstalige landen",
+        "4": "Spaans sprekende landen",
+        "5": "Arabisch sprekende landen",
+        "6": "Portugees sprekende landen",
+        "7": "Romaanse taal sprekende landen",
+        "8": "Slavische taal sprekende naties",
+        "9": "Germaans sprekende landen",
+        "10": "Indo-Europese taalsprekende landen",
+        "11": "Semetische taal sprekende naties",
+        "12": "Turkse taal sprekende landen",
+        "13": "Uralic-taal sprekende naties",
+        "14": "Voormalige Sovjet-landen",
+        "15": "NAVO-lidstaten"
+    },
+
+    "lang":{
+        "1": "Engels",
+        "2": "Duitse",
+        "3": "Nederlands",
+        "4": "Zweeds",
+        "5": "Ijlands",
+        "6": "Spaans",
+        "7": "Portugees",
+        "8": "Italiaans",
+        "9": "Frans",
+        "10": "Roemeense",
+        "11": "Pools",
+        "12": "Russisch",
+        "13": "Oekraïens",
+        "14": "Japans",
+        "15": "Chinese",
+        "16": "KOreaans",
+        "17": "Fins"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Romania",
+    "capital": "Bucharest",
+    "continent": "Europe",
+    "currency": "Romanian leu",
+    "religion": "Romanian Orthodoxy",
+    "area": {
+        "metric": 238397,
+        "imperial": 92046
+    },
+    "population": 19401658,
+    "hdi": 0.816,
+    "drivingSide": "Right",
+    "tld": ".ro",
+    "legislature": "Parliament",
+    "language" : "Romanian",
+    "langBasic": {
+        "hello": "Buna",
+        "howareyou": "Ce mai faci?",
+        "whatisname": "Cum te numești?",
+        "mynameis": "Numele meu este ...",
+        "goodmorning": "Buna dimineata",
+        "goodafternoon": "Buna ziua",
+        "goodevening": "Bună seara",
+        "goodnight": "Noapte bună",
+        "bye": "Pa",
+        "yes": "Da",
+        "no": "Nu"
+    }
+}

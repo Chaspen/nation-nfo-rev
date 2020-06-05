@@ -1,0 +1,30 @@
+{
+    "name": "Brazil",
+    "capital": "Brasília",
+    "continent": "South America",
+    "currency": "Brazillian real",
+    "religion": "Roman Catholicism",
+    "area": {
+        "metric": 8515767,
+        "imperial": 3287956
+    },
+    "population": 210147125,
+    "hdi": 0.761,
+    "drivingSide": "Right",
+    "tld": ".br",
+    "legislature": "National Congress",
+    "language" : "Portuguese",
+    "langBasic": {
+        "hello": "Olá",
+        "howareyou": "Como você está?",
+        "whatisname": "Qual é o seu nome?",
+        "mynameis": "Meu nome é...",
+        "goodmorning": "Bom dia",
+        "goodafternoon": "Boa tarde",
+        "goodevening": "Boa noite",
+        "goodnight": "Boa noite",
+        "bye": "Tchau",
+        "yes": "Sim",
+        "no": "Não"
+    }
+}

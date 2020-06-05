@@ -1,0 +1,30 @@
+{
+    "name": "Switzerland",
+    "capital": " Bern",
+    "continent": "Europe",
+    "currency": "Swiss franc",
+    "religion": "Catholic",
+    "area": {
+        "metric": 41285,
+        "imperial": 15940
+    },
+    "population": 8570146,
+    "hdi": 0.946,
+    "drivingSide": "Right",
+    "tld": ".ch",
+    "legislature": "Federal Assembly",
+    "language" : "Swiss German",
+    "langBasic": {
+        "hello": "Sali",
+        "howareyou": "Wie goots Ihne?",
+        "whatisname": "Wie isch Ihre name?",
+        "mynameis": "I heisse ...",
+        "goodmorning": "Guete Morge",
+        "goodafternoon": "Gueten Abig",
+        "goodevening": "Gueten Oobe",
+        "goodnight": "Guet Nacht",
+        "bye": "Tschüss",
+        "yes": "Yo",
+        "no": "Nein"
+    }
+}

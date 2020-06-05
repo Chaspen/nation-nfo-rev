@@ -1,0 +1,30 @@
+{
+    "name": "Peru",
+    "capital": "Lima",
+    "continent": "South America",
+    "currency": "Peruvian sol",
+    "religion": "Roman Catholicism",
+    "area": {
+        "metric": 1285216,
+        "imperial": 496225
+    },
+    "population": 32824358,
+    "hdi": 0.763,
+    "drivingSide": "Right",
+    "tld": ".pe",
+    "legislature": "Congress of the Republic",
+    "language" : "Spanish",
+    "langBasic": {
+        "hello": "Hola",
+        "howareyou": "Cómo estás",
+        "whatisname": "Cuál es su nombre",
+        "mynameis": "Me llamo ...",
+        "goodmorning": "Buenos días",
+        "goodafternoon": "Buenas tardes",
+        "goodevening": "Buena noches",
+        "goodnight": "Buenas noches",
+        "bye": "Adiós",
+        "yes": "Si",
+        "no": "No"
+    }
+}

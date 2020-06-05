@@ -1,0 +1,36 @@
+{
+    "Nations":[
+        {
+            "lang":"Albania",
+            "lang":"Belgium",
+            "lang":"Bulgaria",
+            "lang":"Canada",
+            "lang":"Croatia",
+            "lang":"Czech Republic",
+            "lang":"Denmark",
+            "lang":"Estonia",
+            "lang":"France",
+            "lang":"Germany",
+            "lang":"Greece",
+            "lang":"Hungary",
+            "lang":"Iceland",
+            "lang":"Italy",
+            "lang":"Latvia",
+            "lang":"Lithuania",
+            "lang":"Luxembourg",
+            "lang":"Montenegro",
+            "lang":"Netherlands",
+            "lang":"North Macedonia",
+            "lang":"Norway",
+            "lang":"Poland",
+            "lang":"Portugal",
+            "lang":"Romania",
+            "lang":"Slovakia",
+            "lang":"Slovenia",
+            "lang":"Spain",
+            "lang":"Turkey",
+            "lang":"United Kingdom",
+            "lang":"United States"
+        }
+    ]
+}

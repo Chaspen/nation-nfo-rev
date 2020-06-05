@@ -1,0 +1,30 @@
+{
+    "name": "Monaco",
+    "capital": "Monaco(City state)",
+    "continent": "Europe",
+    "currency": "Euro",
+    "religion": "Catholisism",
+    "area": {
+        "metric": 2.1,
+        "imperial": 0.81
+    },
+    "population": 38300,
+    "hdi": null,
+    "drivingSide": "Right",
+    "tld": ".mc",
+    "legislature": "National Council",
+    "language" : "French",
+    "langBasic": {
+        "hello": "Bonjour",
+        "howareyou": "Comment ça va ?",
+        "whatisname": "Quel est votre nom?",
+        "mynameis": "Mon nom est...",
+        "goodmorning": "Bonjour",
+        "goodafternoon": "Bonne après-midi",
+        "goodevening": "Bonsoir",
+        "goodnight": "Bonne nuit",
+        "bye": "Au revoir",
+        "yes": "Oui",
+        "no": "Non"
+    }
+}

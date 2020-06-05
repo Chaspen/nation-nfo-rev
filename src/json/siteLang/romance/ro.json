@@ -1,0 +1,39 @@
+{
+    "category":{
+        "1": "Națiuni de limbă engleză",
+        "2": "Națiuni care vorbesc olandeze",
+        "3": "Națiuni de limbă franceză",
+        "4": "Națiuni de limbă spaniolă",
+        "5": "Națiuni de limbă arabă",
+        "6": "Națiuni vorbitoare portugheză",
+        "7": "Națiuni vorbitoare de limbă romanică",
+        "8": "Națiuni vorbitoare de limbă slavă",
+        "9": "Națiuni vorbitoare de limbă germanică",
+        "10": "Națiuni vorbitoare de limbi indo-europene",
+        "11": "Națiuni vorbitoare de limbă semetică",
+        "12": "Națiuni vorbitoare de limbă turcă",
+        "13": "Națiuni vorbitoare de limbă uralică",
+        "14": "Fostele națiuni sovietice",
+        "15": "Națiuni membre NATO"
+    },
+
+    "lang":{
+        "1": "Engleză",
+        "2": "Germana",
+        "3": "Olandeză",
+        "4": "Suedez",
+        "5": "Islandeză",
+        "6": "Spaniolă",
+        "7": "Portugheză",
+        "8": "Italiană",
+        "9": "Franceza",
+        "10": "Română",
+        "11": "Polonez",
+        "12": "Rusă",
+        "13": "Ucrainean",
+        "14": "Japonez",
+        "15": "Chinez",
+        "16": "Coreeană",
+        "17": "Finlandeză"
+    }
+}
